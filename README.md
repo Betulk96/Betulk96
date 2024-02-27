@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/bet-l-kuyucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/bet-l-kuyucu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bet%c3%bcl-kuyucu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bet%c3%bcl-kuyucu/" height="30" width="40" /></a>
+<a href="[https://codepen.io/https://codepen.io/bet-l-kuyucu](https://codepen.io/Bet-l-Kuyucu)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/bet-l-kuyucu" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/bet%c3%bcl-kuyucu/](https://www.linkedin.com/in/bet%C3%BCl-kuyucu/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bet%c3%bcl-kuyucu/" height="30" width="40" /></a>
 <a href="https://medium.com/@96betul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@96betul" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@96betul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@96betul" height="30" width="40" /></a>
 </p>
