@@ -30,13 +30,19 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40"/>
 </p>
 
-#### 🧠 Backend & Tools
+#### 📱 Mobile Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" height="40"/>
+</p>
+
+#### 🧠 Backend & Databases
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="40"/>
@@ -45,8 +51,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
 </p>
 
-#### 🧰 Tools & Other
+#### 🧰 DevOps & Tools
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40"/>
@@ -54,11 +61,10 @@
 
 ---
 
-### 📱 Mobile First & Modern UX Advocate
+### 📱 Mobile-First. Component-Based. API-Driven.
 
-As a frontend-focused developer, I prioritize responsive design, accessibility, and user experience. I work with tools like **Next.js**, **React**, **SASS**, and **Bootstrap** to create dynamic and user-friendly web apps that scale beautifully across devices.
+I build clean, fast, and responsive UIs with **Tailwind CSS** and **Next.js**, develop scalable APIs with **Spring Boot**, and create cross-platform mobile apps using **React Native & Expo**. I'm also experienced with **Docker** for containerizing full stack applications.
 
 ---
 
-> 🌱 *Currently expanding my expertise in mobile-first animation, micro-interactions, and backend APIs with Spring Boot.*
-
+> 🚀 *Always learning and experimenting with new frontend patterns and mobile-first architecture.*
